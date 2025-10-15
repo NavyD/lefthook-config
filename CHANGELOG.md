@@ -1,3 +1,9 @@
+## v0.4.1 (2025-10-15)
+
+### Fix
+
+- stage_fixed not working on group job
+
 ## v0.4.0 (2025-10-15)
 
 ### Feat
